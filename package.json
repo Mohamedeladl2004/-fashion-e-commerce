@@ -1,7 +1,7 @@
 {
-  "name": "my-v0-project",
+  "name": "skystore",
   "version": "0.1.0",
-  "private": true,
+ 
   "scripts": {
     "build": "next build",
     "dev": "next dev",

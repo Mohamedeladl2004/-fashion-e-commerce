@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "SkyStore - Modern E-commerce",
   description: "Your one-stop shop for amazing products",
-    generator: 'v0.dev'
+  
 }
 
 export default function RootLayout({
